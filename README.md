@@ -1,5 +1,27 @@
-<h1 align="center">Project Kuliah Mandiri<br>Jurusan: Informatika</h1>
-<h3 align="center">Biar Kalian Bisa Belajar Juga Apa yang Aku Belajar</h3>
+
+<h1 align="center">Selamat Datang di Project Kuliah Mandiri Jurusan: Informatika</h1>
+
+<sub>**TLDR;**
+Repositori ini saya buat untuk membagikan materi kuliah yang telah saya pelajari, agar semua orang dapat belajar **pemrograman** yang saya pelajari secara kasual dan tanpa kuliah.</sub>
+
+## Permulaan
+
+### 🤷 Apa itu "Pemrograman" ?
+Singkatnya ya **masukin perintah** yang dapat diolah oleh compiler* biar komputer bisa melakukan suatu tugas berdasarkan **kode yang udah dimasukin**
+<sub>*Note: compiler tu kayak yang translate bahasa pemrograman ke bahasa yang bisa dipahami komputer gituloh, komputer mana paham bahasa inggris wkwk*</sub>
+3
+### 🧑‍💻 Apa aja sih yang diperluin buat belajar ginian?
+Kalo dasar-dasar aja sih pake leptop RAM 2GB aja dah cukup, tapi ya macet-macet dikit gitu hehe.
+Tapi rekomendasiku sih langsung ambil yang RAM 8GB+ aja, prosesor Ryzen 5 setara atau keatas,
+atau minimal RAM 4GB+, prosesor 
+Kalao duit seret jangan maksa ortu gaes.
+
+**📚 Dah, kalo udah paham cus lansung lanjut ke materi-materinya lahh**
+ cobain folder-folder di atas tu lah<br><br><br>
+___
+<h1>README.md</h1>
+
+<h3 align="center">Project Kuliah Mandiri<br>Jurusan: Informatika<br><br>Biar Kalian Bisa Belajar Juga Apa yang Aku Belajar</h3>
 <br>
 
 <p align="center"> 
@@ -33,33 +55,14 @@ Bahasa dan Utilitas:
 
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> 
-  </a> 
-
-  <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
-  </a> 
-
-  <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> 
-  </a> 
-  
-  <a target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="iJ" width="20" height="20"/> 
-  </a> 
-
-
-  <a target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> 
-  </a> 
-  
-
-  <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
-  </a> 
-  
-  <a target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="20" height="20"/> 
   </a> 
 
 </p>
 <p align="right" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/ARSTCreations/kuliahinformatika">Project Kuliah Mandiri Jurusan Informatika</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/ARSTCreations">ARSTCreations</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
+
