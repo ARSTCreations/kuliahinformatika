@@ -23,4 +23,43 @@ Selain PC, sebelom ngoding, kita pasti perlu yang namanya <i>IDE <sub>(Integrate
 |<div align="center">Gampang Pakenya 🧘🏻‍♂️, berat di PC 🏋🏻‍♂️</div>|<div align="center">Aduh Belibet 🕸, Tapi Ringannn 🏄🏻</div>|
 
 **Ooooohh Gitu Maksudnya**
-Iya, gitu doang sih, coba liat pdf diatas biar biar tau apa yang harus disiapin.
+Iya, gitu doang sih, coba kita lanjut biar tau apa aja yang harus disiapin.
+
+### IDE dan Code Editor C/C++ pada Windows
+
+Bagi temen-temen yang pake OS Windows dan belom familiar sama yang namanya pemrograman, ku saranin install IDE aja dulu.
+
+Yang udah familiar, atau mau belajar “the hard way” wkwk, langsung cuss download Code Editor sama compilernya.
+
+IDE C/C++ yang ku saranin adalah (pilih salah satu aja):
+
+- **FALCON C++**  [http://falconcpp.sourceforge.net/downloads/](http://falconcpp.sourceforge.net/downloads/)
+- **CodeBlocks**  [https://www.codeblocks.org/downloads/binaries](https://www.codeblocks.org/downloads/binaries/)
+- **CLion**<sup><sup>bayar*</sup></sup>  [https://www.jetbrains.com/clion/download](https://www.jetbrains.com/clion/download/)
+
+Setelah install IDE langsung aja jalanin coba-coba dulu
+
+> _Atau kalo gamau pake IDE Code Editor yang Ku saranin adalah 
+**Sublime Text**  [**https://www.sublimetext.com/download**](https://www.sublimetext.com/download)
+**Visual Studio Code**  [**https://code.visualstudio.com/Download**](https://code.visualstudio.com/Download)
+Kalo pake Code Editor, jangan lupa install compiler dan extension-extension yang diperluin.
+
+---
+<h3 align="center">-- Test Code --</h3>
+
+Coba buka IDE atau Code Editor kalian masing-masing dulu, kita cobain sebuah code buat ngecek, bisa dipake ngga IDE atau Code Editor & Compiler yang udah kalian install
+```
+#include <stdio.h>
+int main()  {
+	printf("Halo Gaes!!!");
+	return  0;
+}
+```
+kalo udah, coba run codenya lewat tombol RUN ▶️ (atau Compile and Execute, atau apalah yang buat jalanin, hehe)
+
+Outputnya harusnya kek gini:
+```
+Halo Gaes!!!
+```
+Contoh:
+<img src='https://raw.githubusercontent.com/ARSTCreations/kuliahinformatika/main/resource/0.5output.png'></img>
