@@ -50,6 +50,10 @@ contoh:
 
 ## Fungsi
 Bukan fungsi yaa, tapi 'Fungsi' as in 'Function / Method'<br>gunanya adalah untuk menampung perintah kode yang udah kita ketikkan ke file kode.
+contoh:
+- int main(){/* isi kode */}
+- void tulis(){/* isi kode */}
+- float namaFungsi(){/* isi kode */}
 
 ## Header
 Ini juga ada banyak, tapi yang bakal kita pake ya cuma itu-itu aja sih nantinya hehe.<br>Header ini digunakan untuk menampung library.
@@ -65,5 +69,8 @@ nah itu dah salah satu contoh dari <u>Header yang nampung Library 'stdio.h'</u>.
 |string.h|Berisi perintah manipulasi String seperti menyalin string, membalik, dsb.|
 |math.h|Berisi perintah operasi matematika seperti square-root, power, dsb.|
 |..dsb|..dsb|
+contoh:
+- #include <stdio.h>
+- #include <math.h>
 
 Gimana.., dah paham belom?<br>masih inget contoh kode yang tadi?<br>nanti bakal kita bahas bareng-bareng di sesi berikutnya hehe.
