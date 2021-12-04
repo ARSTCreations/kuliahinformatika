@@ -8,14 +8,14 @@ Ntar kita bakalan belajar bahasa pemrograman C/C++, jadi yang pasti perlu progra
 **Nahloh** dah mulai. Kita bakalan belajar bahasa pemrograman **C/C++**. Kenapa?
 Ya karena itu bahasa pemrograman yang dasar banget dan mudah dipahami sih kalo menurutku hehe.
 ___
-**Jadi Pasti Ada Alat Penunjangnya Donngg**
-Selain PC, sebelom ngoding, kita pasti perlu yang namanya <i>IDE <sub>(Integrated Development Environment)</sub></i> atau alternatifnya- <i>Code Editor</i> dan <i>Compiler</i>
+**Jadi Pasti Ada Alat Penunjangnya Donngg**<br>
+Selain PC, sebelom ngoding, kita pasti perlu yang namanya <i>IDE <sub>(Integrated Development Environment)</sub></i><br>atau alternatifnya- <i>Code Editor</i> dan <i>Compiler</i>
 |IDE|Code Editor|Compiler|
 |--|--|--|
 |<div align="center"><sub>**BOOM!**</sub> Code Editor sama Compiler kompak jadi satu</div>|<div align="center">Semacem NotePad, tapi buat ngoding</div>|<div align="center">Yang nge-translate-in bahasa pemrograman ke bahasa yang bisa dipahami komputer</div>|
 
 
-**Hah? Gimana-Gimanaa??**
+**Hah? Gimana-Gimanaa??**<br>
 |IDE 🤖|Code Editor ♕ & Compiler ♔|
 |--|--|
 |<div align="center">Dah Satu Set 📦</div>|<div align="center">🖊️ Code Editor  sama ⚙️ Compiler Kepisah</div>|
@@ -23,14 +23,13 @@ Selain PC, sebelom ngoding, kita pasti perlu yang namanya <i>IDE <sub>(Integrate
 |<div align="center">Gampang Pakenya 🧘🏻‍♂️, berat di PC 🏋🏻‍♂️</div>|<div align="center">Aduh Belibet 🕸, Tapi Ringannn 🏄🏻</div>|
 
 **Ooooohh Gitu Maksudnya**
-Iya, gitu doang sih, coba kita lanjut biar tau apa aja yang harus disiapin.
-
+<br>Iya, gitu doang sih, coba kita lanjut biar tau apa aja yang harus disiapin.
+<br><br><br>
 ### IDE dan Code Editor C/C++ pada Windows
 
 Bagi temen-temen yang pake OS Windows dan belom familiar sama yang namanya pemrograman, ku saranin install IDE aja dulu.
-
-Yang udah familiar, atau mau belajar “the hard way” wkwk, langsung cuss download Code Editor sama compilernya.
-
+<br>Yang udah familiar, atau mau belajar “the hard way” wkwk, langsung cuss download Code Editor sama compilernya.
+<br><br><br>
 IDE C/C++ yang ku saranin adalah (pilih salah satu aja):
 
 - **FALCON C++**  [http://falconcpp.sourceforge.net/downloads/](http://falconcpp.sourceforge.net/downloads/)
@@ -39,15 +38,15 @@ IDE C/C++ yang ku saranin adalah (pilih salah satu aja):
 
 Setelah install IDE langsung aja jalanin coba-coba dulu
 
-> _Atau kalo gamau pake IDE Code Editor yang Ku saranin adalah 
-**Sublime Text**  [**https://www.sublimetext.com/download**](https://www.sublimetext.com/download)
-**Visual Studio Code**  [**https://code.visualstudio.com/Download**](https://code.visualstudio.com/Download)
-Kalo pake Code Editor, jangan lupa install compiler dan extension-extension yang diperluin.
+> Atau kalo gamau pake IDE Code Editor yang Ku saranin adalah 
+<br>**Sublime Text**  [**https://www.sublimetext.com/download**](https://www.sublimetext.com/download)
+<br>**Visual Studio Code**  [**https://code.visualstudio.com/Download**](https://code.visualstudio.com/Download)
+<br>Kalo pake Code Editor, jangan lupa install compiler dan extension-extension yang diperluin.
 
 ---
 <h3 align="center">-- Test Code --</h3>
 
-Coba buka IDE atau Code Editor kalian masing-masing dulu, kita cobain sebuah code buat ngecek, bisa dipake ngga IDE atau Code Editor & Compiler yang udah kalian install
+Coba buka IDE atau Code Editor kalian masing-masing dulu,<br>kita cobain sebuah code buat ngecek,<br>bisa dipake ngga IDE atau Code Editor & Compiler yang udah kalian install
 ```
 #include <stdio.h>
 int main()  {
@@ -55,7 +54,7 @@ int main()  {
 	return  0;
 }
 ```
-kalo udah, coba run codenya lewat tombol RUN ▶️ (atau Compile and Execute, atau apalah yang buat jalanin, hehe)
+kalo udah, coba run codenya lewat tombol RUN ▶️<br>(atau Compile and Execute, atau apalah yang buat jalanin, hehe)
 
 Outputnya harusnya kek gini:
 ```
